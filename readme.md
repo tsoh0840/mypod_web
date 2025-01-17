@@ -1,4 +1,4 @@
-# mypod.kr repo
+# mypod.kr Repository
 
 ---
 ## 생성 목적
