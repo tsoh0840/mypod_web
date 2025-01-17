@@ -1,4 +1,4 @@
-# EKS-Ram-Alert(Ram-alert 발생시 수동 pod evict을 위한 서비스) repo
+# mypod.kr repo
 
 ---
 ## 생성 목적
