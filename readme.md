@@ -17,7 +17,7 @@
 
 ## Logic
 1. mypod.kr 접속 
-2. eks-ram-alert pod에서 PROD-AA cluster로 api 전송. namespace list get
+2. eks-AA pod에서 PROD-AA cluster로 api 전송. namespace list get
 3. mypod.AA.kr에 namespace list 출력
 4. pod 버튼 클릭
 5. service pod에서 cluster로 api 전송. pod list 및 metrics get
